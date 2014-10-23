@@ -4,7 +4,8 @@
    contain the root `toctree` directive.
 
 
-Documentation site for our build of a medium sized laser cutter with a 900 mm x 600 mm cutting bed size and 80 W Reci Laser. 
+Documentation site for our build of a medium sized laser cutter with a 900 mm x 600 mm cutting bed size and 80 W Reci Laser. This is currently in progress as of Nov. 2014. We will be adding images and information here as we go through the laser cutter build.
+
 
    
 .. figure:: _static/compilation_2.png
@@ -28,7 +29,6 @@ Parts List
 
 Build Images
 ---------------------
-We will be adding images here as we go through the laser cutter build.
 
 
 .. toctree::
