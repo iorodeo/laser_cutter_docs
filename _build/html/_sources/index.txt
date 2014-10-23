@@ -5,6 +5,7 @@
 
 
 Documentation site for our build of a medium sized laser cutter with a 900 mm x 600 mm cutting bed size and 80 W Reci Laser. 
+
    
 .. figure:: _static/compilation_2.png
    :align:  center
