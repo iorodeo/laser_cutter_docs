@@ -1,0 +1,101 @@
+Parts List
+==========================
+
+Aluminum Frame
+--------------------------
+
+
+========  ================================================================  ==============  ===============  ===============
+Quantity  Description                                                       Vendor          Part #           Cost
+========  ================================================================  ==============  ===============  ===============
+1         Aluminum frame kit (900x600) for CO2 laser machine                Light Object    LSR-CSE960KIT    $650 
+10        20 series T slot aluminium corner bracket with screws & nuts      Light Object    HW-T-BRACKET20   $0.45 
+123"      30mm T-Slotted Extrusion aluminum bar [#f1]_                      Light Object    HW-EAL3030B      $0.32/inch   
+========  ================================================================  ==============  ===============  ===============
+
+
+
+XY Stage
+----------------
+
+========  ================================================================  ==============  ===============  ===============
+Quantity  Description                                                       Vendor          Part #           Cost
+========  ================================================================  ==============  ===============  ===============
+1         XLE 900*600 XY Stages complete kit for DIY CO2 Laser              Light Object    LSR-XLE9060XY    $875
+1         600X900 Honeycomb for CO2 Laser Machine                           Light Object    LSR-HNYC6090     $55
+========  ================================================================  ==============  ===============  ===============
+
+
+
+Laser and water chiller
+--------------------------
+
+========  ================================================================  ==============  ===============  ===============
+Quantity  Description                                                       Vendor          Part #           Cost
+========  ================================================================  ==============  ===============  ===============
+1         High Quality Reci 80W~90W CO2 Sealed Laser Tube                   Light Object    LSR-JLDHQ80WCO2  $585
+1         80W PWM CO2 Laser Power Supply (AC110V)                           Light Object    LSR-JN80WCO2-1V  $285
+1         CW5000 water chiller for CO2 laser machine (AC110V)               Light Object    WC-CW5000V1      $615
+20        6X9 Silicon Flex Tube High voltage Protection Jacket              Light Object    LSR-WTUBE6X9     $0.45/ft
+20        5X8 Silicon Flex Tube for Air Assistance or Water Cooling         Light Object    LSR-WTUBE5X8     $0.35
+2         CO2 laser safety glasses                                          McMaster Carr   5147T14          $39.67
+2         Pro Laser Tube Mount 80mm (adjustable)                            Light Object    LSR-TUBEMNT80    $32
+2         8mm (ID 5mm) High Pressure Air/ Water flex tube (10ft)            Light Object    EWT-3M850R       $5
+========  ================================================================  ==============  ===============  ===============
+
+
+
+Optics
+------------
+
+========  ================================================================  ==============  ===============  ===============
+Quantity  Description                                                       Vendor          Part #           Cost
+========  ================================================================  ==============  ===============  ===============
+1         25mm High quality Si Plated Reflection Mirror                     Light Object    LSR-MIR25MSI     $29
+1         High quality 20mm ZnSe focus lens for a CO2 laser, Focus: 50.8mm  Light Object    LSR-ZNSE2050HQ   $53
+1         High quality 20mm ZnSe focus lens for a CO2 laser, Focus: 63.5mm  Light Object    LSR-ZNSE20635HQ  $55
+1         Pro 25mm beam combiner mount with laser pointer                   Light Object    LSR-BCMB650M     $69
+1         25mm laser beam combiner len/mirror                               Light Object    LSR-BEMCMB25     $85
+========  ================================================================  ==============  ===============  ===============
+
+
+
+Electronics
+-------------------
+
+========  ================================================================  ==============  ===============  ===============
+Quantity  Description                                                       Vendor          Part #           Cost
+========  ================================================================  ==============  ===============  ===============
+2         Leadshine 3-Phase Stepping Motor Driver.                          Light Object    ECNC-3MD560       $62
+1         Mean Well, AC to DC Power Supply, 48 Volt 12.5 Amp 600 Watt       Jameco          295929            $84.95
+1         3 digit Mini Blue LED DC 100mA meter.                             Light Object    EPM-3D100MAB      $13.50
+1         Water flow/ pressure sensor.Ideal for CO2 laser water protection  Light Object    LSR-H2OPRSNR      $7.50
+15        High Voltage HV Cable for CO2 Laser Power Supply                  Light Object    LSR-HVCBL         $0.85
+========  ================================================================  ==============  ===============  ===============
+
+
+Linux CNC
+-----------------
+
+========  ==============================================================================  ==============  ===============  ===============
+Quantity  Description                                                                     Vendor          Part #           Cost
+========  ==============================================================================  ==============  ===============  ===============
+1         BIOSTAR A68N-5000 AMD A4-5000 Quad-Core APU Mini ITX Motherboard/CPU/VGA Combo  Newegg          N82E16813138412  $69.99
+1         IN WIN BQS656.DD120BL Black Mini-ITX Desktop Computer Case w/ 120W PSU          Newegg          N82E16811108417  $79.99
+1         CORSAIR  8GB (2 x 4GB) 204-Pin DDR3 SO-DIMM DDR3 1600 (PC3 12800)               Newegg          N82E16820233588  $89.99
+1         WD Blue WD5000LPVX 500GB 5400 RPM 8MB Cache SATA 6.0Gb/s 2.5"                   Newegg          N82E16822236498  $49.99
+1         29cm Long DB25 to IDC 26 Pin F/F Printer Port Ribbon Cable Connector Adapter    Newegg          9SIA27C1S19865   $6.55
+========  ==============================================================================  ==============  ===============  ===============
+
+
+Fume extraction
+------------------
+
+
+
+.. rubric:: Footnotes
+
+.. [#f1] 123" bar cut into 2 x 610 mm, 1 x 790 mm and 1 x 1105 mm parts.
+
+
+
