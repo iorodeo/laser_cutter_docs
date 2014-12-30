@@ -1,3 +1,6 @@
+.. _parts_label:
+
+
 Parts List
 ==========================
 
@@ -63,34 +66,54 @@ Quantity  Description                                                       Vend
 Electronics
 -------------------
 
-========  ================================================================  ==============  ===============  ===============
-Quantity  Description                                                       Vendor          Part #           Cost
-========  ================================================================  ==============  ===============  ===============
-2         Leadshine 3-Phase Stepping Motor Driver.                          Light Object    ECNC-3MD560       $62
-1         Mean Well, AC to DC Power Supply, 48 Volt 12.5 Amp 600 Watt       Jameco          295929            $84.95
-1         3 digit Mini Blue LED DC 100mA meter.                             Light Object    EPM-3D100MAB      $13.50
-1         Water flow/ pressure sensor.Ideal for CO2 laser water protection  Light Object    LSR-H2OPRSNR      $7.50
-15        High Voltage HV Cable for CO2 Laser Power Supply                  Light Object    LSR-HVCBL         $0.85
-========  ================================================================  ==============  ===============  ===============
+========  ==============================================================================  =======================  ===============  ===============
+Quantity  Description                                                                     Vendor                   Part #           Cost
+========  ==============================================================================  =======================  ===============  ===============
+2         Leadshine 3-Phase Stepping Motor Driver.                                        Light Object             ECNC-3MD560      $62
+1         Mean Well, AC to DC Power Supply, 48 Volt 12.5 Amp 600 Watt                     Jameco                   295929           $84.95
+1         3 digit Mini Blue LED DC 100mA meter.                                           Light Object             EPM-3D100MAB     $13.50
+1         Water flow/ pressure sensor.Ideal for CO2 laser water protection                Light Object             LSR-H2OPRSNR     $7.50
+15        High Voltage HV Cable for CO2 Laser Power Supply                                Light Object             LSR-HVCBL        $0.85
+1         29cm Long DB25 to IDC 26 Pin F/F Printer Port Ribbon Cable Connector Adapter    Newegg                   9SIA27C1S19865   $6.55
+1         PMDX-122 Bi-Directional Breakout Board                                          Practical Micro Design   PMDX-122         $81
+========  ==============================================================================  =======================  ===============  ===============
 
 
-Linux CNC
------------------
+Linux CNC computer
+---------------------------------
+
+========  ==============================================================================  =======================  ===============  ===============
+Quantity  Description                                                                     Vendor                   Part #           Cost
+========  ==============================================================================  =======================  ===============  ===============
+1         BIOSTAR A68N-5000 AMD A4-5000 Quad-Core APU Mini ITX Motherboard/CPU/VGA Combo  Newegg                   N82E16813138412  $69.99
+1         IN WIN BQS656.DD120BL Black Mini-ITX Desktop Computer Case w/ 120W PSU          Newegg                   N82E16811108417  $79.99
+2         G.SKILL Ares Series 8GB (2 x 4GB) 240-Pin DDR3 SDRAM DDR3 1600 (PC3 12800)      Newegg                   N82E16820231546  $67.99
+1         WD Blue WD5000LPVX 500GB 5400 RPM 8MB Cache SATA 6.0Gb/s 2.5"                   Newegg                   N82E16822236498  $49.99
+========  ==============================================================================  =======================  ===============  ===============
+
+
+Ventilation
+------------------
 
 ========  ==============================================================================  ==============  ===============  ===============
 Quantity  Description                                                                     Vendor          Part #           Cost
 ========  ==============================================================================  ==============  ===============  ===============
-1         BIOSTAR A68N-5000 AMD A4-5000 Quad-Core APU Mini ITX Motherboard/CPU/VGA Combo  Newegg          N82E16813138412  $69.99
-1         IN WIN BQS656.DD120BL Black Mini-ITX Desktop Computer Case w/ 120W PSU          Newegg          N82E16811108417  $79.99
-1         CORSAIR  8GB (2 x 4GB) 204-Pin DDR3 SO-DIMM DDR3 1600 (PC3 12800)               Newegg          N82E16820233588  $89.99
-1         WD Blue WD5000LPVX 500GB 5400 RPM 8MB Cache SATA 6.0Gb/s 2.5"                   Newegg          N82E16822236498  $49.99
-1         29cm Long DB25 to IDC 26 Pin F/F Printer Port Ribbon Cable Connector Adapter    Newegg          9SIA27C1S19865   $6.55
+1         High Velocity Inline Duct Fan-6"                                                Tjernlund       M-6              $132.95
+1         Fan speed control                                                               Tjernlund       SCP              $49.95
+1         Broan 641FA 6" Round Duct Aluminum Wall Cap without Damper, Aluminum            Amazon          641FA            $36.34
+2         6" Diameter Self-Sealing Collar for, Galvanized Steel Spiral Duct               McMaster-Carr   5078K111         $6.70
 ========  ==============================================================================  ==============  ===============  ===============
 
+Materials
+------------------------
 
-Fume extraction
-------------------
-
+=========  ====================================================   =================================  ===================   ===============  =======
+Quantity   Description                                            Custom design                      Vendor                Part #           Cost      
+=========  ====================================================   =================================  ===================   ===============  =======
+1 sheet    1/8" thick aluminum, 28" × 40"                         Optional - Extra protection        Discount steel        3422             $90.15 
+6 sheets   1/4" thick ABS black plastic, 24" x 48"                Frame covers/skins                 Interstate Plastics   ABSBE-ABS SHEET  $24.67
+2 sheets   1/4" thick medium-density fiberboard                   Frame floors and interior walls    Ganahl lumber
+=========  ====================================================   =================================  ===================   ===============  =======
 
 
 .. rubric:: Footnotes

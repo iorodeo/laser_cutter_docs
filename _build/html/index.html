@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -12,11 +10,10 @@
     
     <link rel="stylesheet" href="_static/haiku.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/print.css" type="text/css" />
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
-        URL_ROOT:    '',
+        URL_ROOT:    './',
         VERSION:     '1',
         COLLAPSE_INDEX: false,
         FILE_SUFFIX: '.html',
@@ -26,7 +23,6 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/theme_extras.js"></script>
     <link rel="top" title="Laser Cutter Build Documentation" href="#" />
     <link rel="next" title="Parts List" href="hardware.html" /> 
   </head>
@@ -51,12 +47,13 @@
         
   <p>Documentation site for our build of a medium sized laser cutter with a 900 mm x 600 mm cutting bed size and 80 W Reci Laser. This is currently in progress as of Nov. 2014. We will be adding images and information here as we go through the laser cutter build.</p>
 <div class="figure align-center">
-<img alt="_images/compilation_2.png" src="_images/compilation_2.png" />
+<img alt="_images/compilation_3.png" src="_images/compilation_3.png" />
 </div>
 <div class="section" id="table-of-contents">
 <h1>Table of Contents<a class="headerlink" href="#table-of-contents" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="parts-list">
-<h2>Parts List<a class="headerlink" href="#parts-list" title="Permalink to this headline">¶</a></h2>
+<h2>Parts list<a class="headerlink" href="#parts-list" title="Permalink to this headline">¶</a></h2>
+<p>This is a list of all of the parts used in this design, including vendors, part numbers and prices.</p>
 <div class="toctree-wrapper compound">
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="hardware.html">Parts List</a><ul>
@@ -65,18 +62,33 @@
 <li class="toctree-l2"><a class="reference internal" href="hardware.html#laser-and-water-chiller">Laser and water chiller</a></li>
 <li class="toctree-l2"><a class="reference internal" href="hardware.html#optics">Optics</a></li>
 <li class="toctree-l2"><a class="reference internal" href="hardware.html#electronics">Electronics</a></li>
-<li class="toctree-l2"><a class="reference internal" href="hardware.html#linux-cnc">Linux CNC</a></li>
-<li class="toctree-l2"><a class="reference internal" href="hardware.html#fume-extraction">Fume extraction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="hardware.html#linux-cnc-computer">Linux CNC computer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="hardware.html#ventilation">Ventilation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="hardware.html#materials">Materials</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
-<div class="section" id="build-images">
-<h2>Build Images<a class="headerlink" href="#build-images" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="custom-parts">
+<h2>Custom parts<a class="headerlink" href="#custom-parts" title="Permalink to this headline">¶</a></h2>
+<p>These are parts which we designed and made in-house, such as the floors and materials to cover the aluminum frame of the laser cutter.</p>
 <div class="toctree-wrapper compound">
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="frame_build_1.html">Images from frame build</a><ul>
+<li class="toctree-l1"><a class="reference internal" href="custom_parts.html">Custom design parts</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="custom_parts.html#design-mdf-floors-and-interiors">Design: MDF floors and interiors</a></li>
+<li class="toctree-l2"><a class="reference internal" href="custom_parts.html#design-abs-frame-covers">Design: ABS frame covers</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="building-the-laser-cutter">
+<h2>Building the laser cutter<a class="headerlink" href="#building-the-laser-cutter" title="Permalink to this headline">¶</a></h2>
+<p>Images and notes from the build.</p>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="frame_build_1.html">Aluminum frame build</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="frame_build_1.html#kit-images">Kit images</a></li>
 <li class="toctree-l2"><a class="reference internal" href="frame_build_1.html#building-the-door">Building the door</a></li>
 <li class="toctree-l2"><a class="reference internal" href="frame_build_1.html#main-frame-body">Main Frame Body</a></li>
@@ -84,6 +96,20 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="stage_build.html">Images from XY stage build</a></li>
+<li class="toctree-l1"><a class="reference internal" href="floor_images.html">Custom frame floors and interior walls</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="floor_images.html#machining-the-mdf-with-cnc-router">Machining the MDF with CNC router</a></li>
+<li class="toctree-l2"><a class="reference internal" href="floor_images.html#placing-floors-in-the-laser-cutter-frame">Placing floors in the laser cutter frame</a></li>
+<li class="toctree-l2"><a class="reference internal" href="floor_images.html#additional-images-with-floors-and-sides-in-place">Additional images with floors and sides in place</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="linuxcnc.html">Linux CNC computer</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="linuxcnc.html#parts">Parts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="linuxcnc.html#installing-the-motherboard-memory-into-the-case">Installing the motherboard &amp; memory into the case</a></li>
+<li class="toctree-l2"><a class="reference internal" href="linuxcnc.html#installing-the-hard-drive">Installing the hard drive</a></li>
+<li class="toctree-l2"><a class="reference internal" href="linuxcnc.html#final-image">Final Image</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="laser_images.html">Images of laser tube</a></li>
 </ul>
 </div>
 </div>
@@ -103,7 +129,7 @@
 
     <div class="footer">
         &copy; Copyright 2014, IO Rodeo.
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2.
     </div>
   </body>
 </html>
