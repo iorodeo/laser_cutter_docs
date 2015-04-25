@@ -1,4 +1,4 @@
-Images from XY stage build 
+XY stage build 
 =============================
 
 

@@ -29,6 +29,19 @@ Quantity  Description                                                       Vend
 ========  ================================================================  ==============  ===============  ===============
 
 
+Cable carriers
+------------------------------
+
+========  ================================================================  ==============  ===============  ===============
+Quantity  Description                                                       Vendor          Part #           Cost
+========  ================================================================  ==============  ===============  ===============
+1         1.5" wide snap-together cable and hose carrier, 3' long           McMaster-Carr   4409T25          $55.68
+1         0.7" wide snap-together cable and hose carrier, 3' long           McMaster-Carr   4409T22          $46.68
+1         Mounting bracket for 1.5" wide snap-together cable/hose carrier   McMaster-Carr   4556T35          $10.05
+1         Mounting bracket for 0.7" wide snap-together cable/hose carrier   McMaster-Carr   4556T32          $7.30
+========  ================================================================  ==============  ===============  ===============
+
+
 
 Laser and water chiller
 --------------------------
@@ -102,9 +115,13 @@ Quantity  Description                                                           
 1         Fan speed control                                                               Tjernlund       SCP              $49.95
 1         Broan 641FA 6" Round Duct Aluminum Wall Cap without Damper, Aluminum            Amazon          641FA            $36.34
 2         6" Diameter Self-Sealing Collar for, Galvanized Steel Spiral Duct               McMaster-Carr   5078K111         $6.70
+1         Blo-R-Vac dust hose for dust black, 6" ID, 25' long                             McMaster-Carr   53145K71         $155
+1         Odor-removal panel air filter, 12" x 24" x 2" thick                             McMaster-Carr   4043T41          $46.38
+1         High-efficiency panel air filter, Merv 11, 12" x 24" x 1", pack/2               McMaster-Carr   3881T41          $11.11
+1         Hose and tube clamp for exhaust hose, pack/5                                    McMaster-Carr   5416K52          $10.99
 ========  ==============================================================================  ==============  ===============  ===============
 
-Materials
+Materials and other
 ------------------------
 
 =========  ====================================================   =================================  ===================   ===============  =======
@@ -113,6 +130,7 @@ Quantity   Description                                            Custom design 
 1 sheet    1/8" thick aluminum, 28" × 40"                         Optional - Extra protection        Discount steel        3422             $90.15 
 6 sheets   1/4" thick ABS black plastic, 24" x 48"                Frame covers/skins                 Interstate Plastics   ABSBE-ABS SHEET  $24.67
 2 sheets   1/4" thick medium-density fiberboard                   Frame floors and interior walls    Ganahl lumber
+1          Laser cutting service                                  Clear acrylic lid covers           Pololu
 =========  ====================================================   =================================  ===================   ===============  =======
 
 

@@ -6,7 +6,7 @@
 
 Documentation site for our build of a medium sized laser cutter with a 900 mm x 600 mm cutting bed size and 80 W Reci Laser. This is currently in progress as of Nov. 2014. We will be adding images and information here as we go through the laser cutter build.
 
-.. figure:: _static/compilation_3.png
+.. figure:: _static/april_main_image.png
    :align:  center
 
    
@@ -41,7 +41,7 @@ These are parts which we designed and made in-house, such as the floors and mate
 Building the laser cutter
 ----------------------------
 
-Images and notes from the build.
+Images and notes from the aluminum frame build, XY stage, and custom floors, walls and other parts.
 
 .. toctree::
    :maxdepth: 2
@@ -49,7 +49,16 @@ Images and notes from the build.
    frame_build_1.rst
    stage_build.rst
    floor_images.rst
+   skins.rst
+   acrylic_lid.rst
+   echain.rst
+
+Cabling and testing
+-------------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+
    linuxcnc.rst
    laser_images.rst
-
-
