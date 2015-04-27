@@ -38,8 +38,8 @@ These are parts which we designed and made in-house, such as the floors and mate
    custom_parts.rst
 
 
-Building the laser cutter
-----------------------------
+Building the laser cutter frame
+-------------------------------------
 
 Images and notes from the aluminum frame build, XY stage, and custom floors, walls and other parts.
 
@@ -53,12 +53,22 @@ Images and notes from the aluminum frame build, XY stage, and custom floors, wal
    acrylic_lid.rst
    echain.rst
 
-Cabling and testing
+Laser tube
 -------------------------------
 
 .. toctree::
    :maxdepth: 2
 
 
-   linuxcnc.rst
    laser_images.rst
+   water_cooling.rst
+   
+   
+Linux CNC
+---------------------
+
+.. toctree::
+   :maxdepth: 2
+
+
+   linuxcnc.rst
