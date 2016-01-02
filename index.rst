@@ -72,3 +72,14 @@ Linux CNC
 
 
    linuxcnc.rst
+   
+   
+Filters
+---------------------
+
+.. toctree::
+   :maxdepth: 2
+
+
+   filters.rst
+

@@ -82,7 +82,7 @@ Electronics
 ========  ==============================================================================  =======================  ===============  ===============
 Quantity  Description                                                                     Vendor                   Part #           Cost
 ========  ==============================================================================  =======================  ===============  ===============
-2         Leadshine 3-Phase Stepping Motor Driver.                                        Light Object             ECNC-3MD560      $62
+2         Leadshine 3-Phase Stepping Motor Driver                                         Light Object             ECNC-3MD560      $62
 1         Mean Well, AC to DC Power Supply, 48 Volt 12.5 Amp 600 Watt                     Jameco                   295929           $84.95
 1         3 digit Mini Blue LED DC 100mA meter.                                           Light Object             EPM-3D100MAB     $13.50
 1         Water flow/ pressure sensor.Ideal for CO2 laser water protection                Light Object             LSR-H2OPRSNR     $7.50
@@ -90,6 +90,37 @@ Quantity  Description                                                           
 1         29cm Long DB25 to IDC 26 Pin F/F Printer Port Ribbon Cable Connector Adapter    Newegg                   9SIA27C1S19865   $6.55
 1         PMDX-122 Bi-Directional Breakout Board                                          Practical Micro Design   PMDX-122         $81
 ========  ==============================================================================  =======================  ===============  ===============
+
+
+HEPA filter box
+-------------------
+
+========  ==============================================================================  =======================  ===============  ===============
+Quantity  Description                                                                     Vendor                   Part #           Cost
+========  ==============================================================================  =======================  ===============  ===============
+1         HEPA Air Filter with Particleboard Frame, 12" x 12" x 3"                        McMaster-Carr            2153K31          $77.42
+2         Odor-Removal Air Filter with 300 Grams of Carbon/sq. ft., 12" x 12" x 1" Pad    McMaster-Carr            3722T79          $14.27
+1         High-Efficiency Panel Air Filter Merv 11, 12 x 12, 1" Thick, 2/pk               McMaster-Carr            3881T207         $21.78
+1         General Purpose Nylon Hook and Loop, 1/4" Width x 15' Length, Adhesive Back     McMaster-Carr            9273K3           $11.06
+1         General Purpose Nylon Hook and Loop, 1/2" Width x 15' Length, Adhesive Back     McMaster-Carr            9273K24          $15.88
+1         Broan 641FA 6" Round Duct Aluminum Wall Cap without Damper, Aluminum            Amazon          641FA            $36.34
+2         Sprial groove Dowel pins, 1/4" x 1-1/4"                                         OSH hardware
+========  ==============================================================================  =======================  ===============  ===============
+
+
+Ventilation
+------------------
+
+========  ==============================================================================  ==============  ===============  ===============
+Quantity  Description                                                                     Vendor          Part #           Cost
+========  ==============================================================================  ==============  ===============  ===============
+1         High Velocity Inline Duct Fan-6"                                                Tjernlund       M-6              $132.95
+1         Fan speed control                                                               Tjernlund       SCP              $49.95
+2         6" Diameter Self-Sealing Collar for, Galvanized Steel Spiral Duct               McMaster-Carr   5078K111         $6.70
+1         Blo-R-Vac dust hose for dust black, 6" ID, 25' long                             McMaster-Carr   53145K71         $155
+1         Hose and tube clamp for exhaust hose, pack/5                                    McMaster-Carr   5416K52          $10.99
+========  ==============================================================================  ==============  ===============  ===============
+
 
 
 Linux CNC computer
@@ -105,31 +136,16 @@ Quantity  Description                                                           
 ========  ==============================================================================  =======================  ===============  ===============
 
 
-Ventilation
-------------------
-
-========  ==============================================================================  ==============  ===============  ===============
-Quantity  Description                                                                     Vendor          Part #           Cost
-========  ==============================================================================  ==============  ===============  ===============
-1         High Velocity Inline Duct Fan-6"                                                Tjernlund       M-6              $132.95
-1         Fan speed control                                                               Tjernlund       SCP              $49.95
-1         Broan 641FA 6" Round Duct Aluminum Wall Cap without Damper, Aluminum            Amazon          641FA            $36.34
-2         6" Diameter Self-Sealing Collar for, Galvanized Steel Spiral Duct               McMaster-Carr   5078K111         $6.70
-1         Blo-R-Vac dust hose for dust black, 6" ID, 25' long                             McMaster-Carr   53145K71         $155
-1         Odor-removal panel air filter, 12" x 24" x 2" thick                             McMaster-Carr   4043T41          $46.38
-1         High-efficiency panel air filter, Merv 11, 12" x 24" x 1", pack/2               McMaster-Carr   3881T41          $11.11
-1         Hose and tube clamp for exhaust hose, pack/5                                    McMaster-Carr   5416K52          $10.99
-========  ==============================================================================  ==============  ===============  ===============
-
-Materials and other
-------------------------
+Materials for custom designs
+----------------------------------
 
 =========  ====================================================   =================================  ===================   ===============  =======
 Quantity   Description                                            Custom design                      Vendor                Part #           Cost      
 =========  ====================================================   =================================  ===================   ===============  =======
 1 sheet    1/8" thick aluminum, 28" × 40"                         Optional - Extra protection        Discount steel        3422             $90.15 
 6 sheets   1/4" thick ABS black plastic, 24" x 48"                Frame covers/skins                 Interstate Plastics   ABSBE-ABS SHEET  $24.67
-2 sheets   1/4" thick medium-density fiberboard                   Frame floors and interior walls    Ganahl lumber
+3 sheets   1/4" thick medium-density fiberboard, 4' x 8'          Frame floors and interior walls    Ganahl lumber
+4 sheets   1/4" thick medium-density fiberboard, 2' x 4'          Hepa filter box                    Ganahl lumber
 1          Laser cutting service                                  Clear acrylic lid covers           Pololu
 =========  ====================================================   =================================  ===================   ===============  =======
 
