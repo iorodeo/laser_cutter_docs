@@ -103,8 +103,10 @@ Quantity  Description                                                           
 1         High-Efficiency Panel Air Filter Merv 11, 12 x 12, 1" Thick, 2/pk               McMaster-Carr            3881T207         $21.78
 1         General Purpose Nylon Hook and Loop, 1/4" Width x 15' Length, Adhesive Back     McMaster-Carr            9273K3           $11.06
 1         General Purpose Nylon Hook and Loop, 1/2" Width x 15' Length, Adhesive Back     McMaster-Carr            9273K24          $15.88
-1         Broan 641FA 6" Round Duct Aluminum Wall Cap without Damper, Aluminum            Amazon          641FA            $36.34
+1         Broan 641FA 6" Round Duct Aluminum Wall Cap without Damper                      Amazon                   641FA            $36.34
 2         Sprial groove Dowel pins, 1/4" x 1-1/4"                                         OSH hardware
+1         Weather-Resistant Neoprene/EPDM/SBR Foam                                        McMaster-Carr            8694K111
+20        8-32 hex drive thread insert without flange                                     McMaster Carr            92105A660
 ========  ==============================================================================  =======================  ===============  ===============
 
 

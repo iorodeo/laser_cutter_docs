@@ -11,7 +11,7 @@ Custom Parts
    :align:  center
 
 
-Gluing the box - Part 1 
+Gluing the box
 ------------------------------------
 
 
@@ -68,3 +68,21 @@ Clamp the glued boxed together and let the glue set for approx. 24 hrs or overni
 .. figure:: _static/filter_box_gluing_14.png
    :align:  center
 
+
+   
+Varnishing the box
+----------------------------------------
+
+Spray exterior and interior with 2-3 coats of Spar varnish.
+
+.. figure:: _static/varnish_1_2.png
+   :align:  center
+
+   
+Thread inserts and foam tape
+----------------------------------------
+
+Install the 20 x 8-32 thread inserts and place adhesive-backed foam along the edges of the top. 
+   
+.. figure:: _static/thread_inserts_5.png
+   :align:  center
