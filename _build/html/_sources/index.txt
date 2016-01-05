@@ -15,8 +15,6 @@ Table of Contents
 ==============================================
 
 
-
-
 Parts list
 ------------
 
@@ -63,6 +61,18 @@ Laser tube
    laser_images.rst
    water_cooling.rst
    
+
+Making the HEPA filter box
+------------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+
+   filters_1.rst
+   filters_2a.rst
+   filters_2b.rst
+   filters_3.rst
    
 Linux CNC
 ---------------------
@@ -74,12 +84,4 @@ Linux CNC
    linuxcnc.rst
    
    
-Filters
----------------------
-
-.. toctree::
-   :maxdepth: 2
-
-
-   filters.rst
 
